@@ -1,0 +1,12 @@
+body {
+ background-color: cornsilk;
+}
+
+h1 {
+ color: rgb(33, 221, 8);
+ font-weight: bolder;
+ text-transform: capitalize;
+ text-align: center;
+ margin: 50px;
+ transform: translate(50% 50%);
+}
